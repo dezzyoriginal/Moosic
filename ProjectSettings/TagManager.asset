@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destroy Zone
+  - Door
+  - Cow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Destroy Zone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 3739314669
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Store
+    uniqueID: 3473197325
+    locked: 0
+  - name: Road
+    uniqueID: 338426591
+    locked: 0
+  - name: Cars
+    uniqueID: 288032133
+    locked: 0
+  - name: UI
+    uniqueID: 3115069795
+    locked: 0
+  - name: ToolTip
+    uniqueID: 3229850065
+    locked: 0
+  - name: Texts
+    uniqueID: 3669187899
+    locked: 0
