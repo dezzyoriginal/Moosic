@@ -932,4 +932,5 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Main Menu.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Dezzy/Documents/GitHub/MOOSIC Store/Builds/Master/MOOSIC Store.exe
+  playerPath: C:/Users/Dezzy/Desktop/IDD/2021/GitHubMoosic/MoosicGitHub/Builds/FinalBuildForProjectSubmission/MOOSIC
+    Store.exe
