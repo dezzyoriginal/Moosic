@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BA3C3D92-A5B2-B323-6658-15F686AA87AB}</ProjectGuid>
+    <ProjectGuid>{DD78C145-2E52-B44C-527C-7DDAD33B6E74}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,29 +56,30 @@
     <Compile Include="Assets\Scripts\Time\DayController.cs" />
     <Compile Include="Assets\Scripts\Items\ItemLibrary.cs" />
     <Compile Include="Assets\Scripts\Time\DayCounter.cs" />
-    <Compile Include="Assets\RentController.cs" />
-    <Compile Include="Assets\UpgradesController.cs" />
-    <Compile Include="Assets\PopularityController.cs" />
+    <Compile Include="Assets\Scripts\Sunday\RentController.cs" />
+    <Compile Include="Assets\Scripts\Options.cs" />
+    <Compile Include="Assets\Scripts\Tabs\UpgradesController.cs" />
+    <Compile Include="Assets\Scripts\PopularityController.cs" />
     <Compile Include="Assets\Scripts\Items\Item.cs" />
-    <Compile Include="Assets\InstrumentSpriteHolder.cs" />
+    <Compile Include="Assets\Scripts\Sunday\RentTutorial.cs" />
+    <Compile Include="Assets\Scripts\Items\InstrumentSpriteHolder.cs" />
     <Compile Include="Assets\Scripts\Buyer\SpawnerController.cs" />
     <Compile Include="Assets\Scripts\Buyer\MoneyController.cs" />
-    <Compile Include="Assets\Newspaper.cs" />
-    <Compile Include="Assets\Scripts\Items\Tooltip.cs" />
+    <Compile Include="Assets\Scripts\Sunday\Newspaper.cs" />
+    <Compile Include="Assets\Scripts\Tooltip.cs" />
     <Compile Include="Assets\Scripts\Buyer\BuyerController.cs" />
-    <Compile Include="Assets\Scripts\ShopController.cs" />
+    <Compile Include="Assets\Scripts\Items\ShopController.cs" />
     <Compile Include="Assets\Scripts\Items\ItemDisplay.cs" />
-    <Compile Include="Assets\Scripts\TabController.cs" />
+    <Compile Include="Assets\Scripts\Tabs\TabController.cs" />
     <Compile Include="Assets\Scripts\MainMenuController.cs" />
+    <Compile Include="Assets\Scripts\Tabs\TabTutorial.cs" />
     <Compile Include="Assets\Scripts\Buyer\CowController.cs" />
-    <Compile Include="Assets\TrendController.cs" />
+    <Compile Include="Assets\Scripts\TrendController.cs" />
     <Compile Include="Assets\Scripts\BGMController.cs" />
-    <Compile Include="Assets\PriceController.cs" />
+    <Compile Include="Assets\Scripts\Tabs\PriceController.cs" />
     <Compile Include="Assets\Scripts\Items\StorageController.cs" />
     <Compile Include="Assets\Scripts\Time\TimeController.cs" />
     <Compile Include="Assets\Scripts\Buyer\CarController.cs" />
-    <Compile Include="Assets\RentTutorial.cs" />
-    <Compile Include="Assets\TabTutorial.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
